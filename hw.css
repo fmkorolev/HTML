@@ -1,0 +1,39 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    color: greenyellow;
+    font-size: 14px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+blockquote {
+    background-color: blueviolet;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-transform: uppercase;
+}
+
+li {
+    font-size: 20px;
+    color: blue;
+}
+
+div {
+    text-align: center;
+    padding: 15px;
+}
